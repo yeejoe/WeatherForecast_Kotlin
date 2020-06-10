@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="main_title">Weather Forecast</string>
+    <string name="location_title">Location Settings</string>
+
+    <string name="drawer_edit_text">Edit</string>
+
+    <string name="direction_north">N</string>
+    <string name="direction_east">E</string>
+    <string name="direction_west">W</string>
+    <string name="direction_south">S</string>
+
+    <string name="temperature_unit_celsius">\u2103</string>
+    <string name="weather_top_feel_like_template">Feels Like %.1f\u2103</string>
+
+    <string name="weather_right_max_template">Max %.1f\u2103</string>
+    <string name="weather_right_pressure_title">Pressure</string>
+    <string name="weather_right_pressure_template">%d hPa</string>
+
+    <string name="weather_left_min_template">Min %.1f\u2103</string>
+    <string name="weather_left_humidity_title">Humidity</string>
+    <string name="weather_left_humidity_template">%d%%</string>
+
+
+    <string name="weather_bottom_wind_template">Wind %.2f m/s</string>
+
+    <string name="weather_forecast_temp_template">%.1f\u2103</string>
+
+    <string name="no_permission_message">Please allow us to access your location retrieve weather information.</string>
+</resources>

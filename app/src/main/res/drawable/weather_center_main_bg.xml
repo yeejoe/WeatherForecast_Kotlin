@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/weather_center_outer_bg"/>
+    <item android:drawable="@drawable/weather_center_inner_circle"
+        android:bottom="@dimen/weather_inner_circle_padding"
+        android:top="@dimen/weather_inner_circle_padding"
+        android:start="@dimen/weather_inner_circle_padding"
+        android:end="@dimen/weather_inner_circle_padding"
+        android:left="@dimen/weather_inner_circle_padding"
+        android:right="@dimen/weather_inner_circle_padding"/>
+</layer-list>
